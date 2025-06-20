@@ -23,8 +23,18 @@ Built with **Python**, **OpenCV**, and **DeepFace**, this app classifies emotion
 ---
 
 ## ▶️ How to Run
-```bash
+bash
 git clone https://github.com/ulkumezgiakbas/Moodmirror-Emotion-AI.git
 cd Moodmirror-Emotion-AI
 pip install -r requirements.txt
 python app.py
+
+
+💡 About the Developer
+Ezgi Akbaş – Electrical & Electronics Engineering student
+Focused on Artificial Intelligence, Machine Learning & Human-AI Interaction
+🔗https://www.linkedin.com/in/uezgiakbas
+
+
+Let's make AI a bit more human.
+
