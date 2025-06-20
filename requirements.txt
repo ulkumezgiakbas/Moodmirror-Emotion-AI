@@ -1,5 +1,6 @@
 opencv-python
 deepface
-streamlit
-numpy
-matplotlib
+torch
+torchvision
+timm
+Pillow
