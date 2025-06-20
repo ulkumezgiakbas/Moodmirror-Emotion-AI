@@ -30,12 +30,18 @@ cd Moodmirror-Emotion-AI
 pip install -r requirements.txt
 python app.py
 
+---
+
+
 💡 About the Developer
 Ü. Ezgi Akbaş – Electrical & Electronics Engineering student
 Focused on Artificial Intelligence, Machine Learning & Human-AI Interaction
 🔗 https://www.linkedin.com/in/uezgiakbas
 
-Why I Built This?
+
+---
+
+✨Why I Built This?
 Because AI shouldn't only think — it should also feel.
 
 This project is a personal exploration of how machines can interpret emotional cues and become more intuitive in human interaction. It merges my background in engineering with my interest in psychology and affective computing.
